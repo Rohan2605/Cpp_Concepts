@@ -39,3 +39,20 @@ int main(){
 
     return 0;
 }
+
+/*
+OUTPUT:-
+
+Enter int value 
+2
+Enter float value 
+2.34
+Enter double value 
+2.3456
+Enter char value (single character)
+a
+Enter name(string) value 
+raja 
+2 2.34 2.3456 a 1 raja
+
+*/
