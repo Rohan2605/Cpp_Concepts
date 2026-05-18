@@ -59,6 +59,17 @@ int main(){
         cout << "Fail"<<endl;
     }
 
+
+    //TERNARY OPERATOR - IMPORTANT (SHORTHAND FORM TO IF ELSE -> IN ONE LINE)
+    cout<<"TERNARY OPERATOR"<<endl;
+
+    //Ternary operator -> ? : -> (codition ? true : false)
+    (age >= 18) ? cout << "Adult" : cout << "Minor";
+
+    //How it works:
+    // If condition is true → first part runs
+    // If condition is false → second part runs
+    
     return 0;
 }
 
